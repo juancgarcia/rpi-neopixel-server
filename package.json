@@ -1,0 +1,24 @@
+{
+  "name": "rpi-neopixel-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "rpi-ws281x": "^1.0.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancgarcia/rpi-neopixel-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancgarcia/rpi-neopixel-server/issues"
+  },
+  "homepage": "https://github.com/juancgarcia/rpi-neopixel-server#readme"
+}
